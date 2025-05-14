@@ -100,13 +100,13 @@ section {
   }
   
   .welcome-image {
-    flex: 1 1 270px;
+    flex: 1 1 300px;
     text-align: center;
   }
   
   .welcome-image img {
     width: 90%;
-    max-width: 270px;
+    max-width: 300px;
     border-radius: 5px;
   }
 
