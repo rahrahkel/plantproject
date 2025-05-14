@@ -100,14 +100,14 @@ section {
   }
   
   .welcome-image {
-    flex: 1 1 300px;
+    flex: 1 1 270px;
     text-align: center;
   }
   
   .welcome-image img {
-    width: 90%;
-    max-width: 300px;
-    border-radius: 10px;
+    width: 80%;
+    max-width: 270px;
+    border-radius: 5px;
   }
 
 /* Footer styling */
